@@ -5,7 +5,7 @@
 # **Projects:**
 * [Telegram-Bot](https://github.com/AnastasiyaIlkevich/Bot)
 * [Game Sneak :snake: ](https://github.com/AnastasiyaIlkevich/SnakeGame)  :video_game:
-* [Основной проект MovieStory :movie_camera](https://github.com/AnastasiyaIlkevich/movieStore)
+* [Основной проект MovieStory :movie_camera:](https://github.com/AnastasiyaIlkevich/movieStore)
 * [Практика программирования,включая задачи Яндекс и Тинькофф](https://github.com/AnastasiyaIlkevich/MyTrainingGround)
 
 <img src="https://komarev.com/ghpvc/?username=DariaSmit&style=flat-square&color=blue" alt=""/>
